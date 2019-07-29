@@ -1,5 +1,3 @@
-mkdir bottle
-cd bottle
 pip install virtualenv==12.0.7
 virtualenv venv
 source venv/bin/activate
